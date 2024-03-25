@@ -1,1 +1,0 @@
-# oroszkende12.github.io
