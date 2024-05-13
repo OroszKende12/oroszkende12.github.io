@@ -1,0 +1,38 @@
+#content{
+	width: 888px;
+    margin: auto;
+}
+#imageright{
+	margin-left: 20px;
+    width: 200px;
+    height: 300px;
+}
+
+#jobb{
+    float: right;
+}
+
+#bal{
+    float: left;
+}
+
+#imageleft{
+    margin-right: 40px;
+    float: left;
+    width: 400px;
+    height: 300px;
+}
+.kepszoveg{
+	text-align: center;
+    font-style: italic;
+    font-weight: bold;
+}
+
+h1, h2{
+    text-transform: uppercase;
+    color: forestgreen;
+}
+
+li, ul, p{
+    text-align: justify;
+}
