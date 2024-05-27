@@ -41,3 +41,7 @@ h1, h2{
 li, ul, p{
     text-align: justify;
 }
+
+image{
+	border: green solid 2px;
+}
