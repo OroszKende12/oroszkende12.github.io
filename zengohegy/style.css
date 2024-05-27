@@ -5,6 +5,7 @@ body{
 #content{
 	width: 888px;
     margin: auto;
+	background-color:beige;
 }
 #imageright{
 	margin-left: 20px;
